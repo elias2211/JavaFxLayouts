@@ -1,0 +1,6 @@
+.root{
+	-fx-background-color: rgb(50, 50, 50);
+	-fx-font-size: 10pt;
+	-fx-base: rgb(70, 122, 124);
+	-fx-text-fill: rgb(10, 123, 134);
+}
